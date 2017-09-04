@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.error {
+  color: red;
+}
+.success {
+  color: green;
+}
+.form-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 288px;
+}
+.form-wrapper ul {
+  list-style: none;
+}
+.form-wrapper ul li {
+  margin-bottom: 10px;
+}
+.form-wrapper ul li:last-child {
+  margin-bottom: 0;
+}
+.form-wrapper ul li input[type='email'],
+.form-wrapper ul li input[type='text'],
+.form-wrapper ul li input[type='password'] {
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #eaeaea;
+  outline-color: #bfbfbf;
+  border-radius: 4px;
+}
+.form-wrapper ul li input[type='submit'] {
+  padding: 10px;
+  border: 1px solid #006699;
+  border-radius: 4px;
+  background: #3399ff;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  opacity: 0.7;
+}
+.form-wrapper ul li input[type='submit']:hover {
+  opacity: 1;
+}
+.form-wrapper h1 {
+  color: #66ccff;
+  margin-bottom: 10px;
+  font-family: 'palatino';
+  font-weight: normal;
+}

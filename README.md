@@ -1,0 +1,3 @@
+# What's this?
+
+This repo contains codes that were used as educational materials for my `TechTalk` at [LaraBits: First Steps to Laravel](https://www.facebook.com/pampdev/photos/a.1780612582174581.1073741827.1780609138841592/1993308470904990/?type=1&theater), a seminar that will be held at Cloudstaff, SM Clark, Angeles City, Pampanga Philippines. The seminar will be held by [Pampanga Developers Group](https://www.facebook.com/pampdev/), on September 16, 2017.
